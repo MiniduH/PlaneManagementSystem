@@ -1,0 +1,11 @@
+Ticket Information
+
+Row is - A
+Seat is - 1
+Price is - £200
+
+Personal Details
+
+Name -minindu
+Sur Name -Himal
+Email -mhimalbandara@gmail.com
